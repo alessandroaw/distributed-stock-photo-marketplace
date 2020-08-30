@@ -1,0 +1,3 @@
+[submodule "photo-marketplace-dapp"]
+	path = photo-marketplace-dapp
+	url = git@github.com:theRealSandro/photo-marketplace-dapp.git
